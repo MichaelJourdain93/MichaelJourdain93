@@ -1,6 +1,6 @@
 # Olá, eu sou Michael Gbedjinou
 
-**Analytics Engineer / Data Analyst ** graduado em Engenharia e com uma pós-graduação em Data Analytics. Trabalho na ponta a ponta de dados — de pipelines de ingestão e modelagem a dashboards e modelos preditivos — e tenho interesse crescente em **GenAI aplicada a dados**.
+**Analytics Engineer / Data Analyst ** graduado em Engenharia e com uma pós-graduação em Data Analytics. Trabalho na ponta a ponta de dados — de pipelines de ingestão e modelagem a dashboards , modelos preditivos e  GenAI aplicada a dados**.
 
 🔗 [Portfólio](https://michael-gbedjinou-portfolio.vercel.app) · 📫 michaeljourdaingbedjinou@gmail.com
 
