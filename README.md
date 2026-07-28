@@ -18,15 +18,15 @@
 
 ##  Projetos em destaque
 
-### 🦠 [PNAD_COVID_TECH_CHALLENGE](https://github.com/MichaelJourdain93/PNAD_COVID_TECH_CHALLENGE)
+### 🦠 [pnad-covid19-hospital-etl](https://github.com/MichaelJourdain93/pnad-covid19-hospital-etl)
 ETL em **PySpark** consolidando 3 meses da PNAD-COVID-19 (IBGE, ~1,15M registros), reduzindo 145+ colunas brutas a 22 variáveis de negócio via UDFs de decodificação semântica. Entrega recomendações acionáveis para preparação hospitalar diante de um novo surto.
 
-### 🎓 [Datathon_Passos_Magicos](https://github.com/MichaelJourdain93/Datathon_Passos_Magicos)
+### 🎓 [passos-magicos-education-analytics](https://github.com/MichaelJourdain93/passos-magicos-education-analytics)
 App **Streamlit** multi-página com modelo preditivo (`RandomForestRegressor`) para o Índice de Desenvolvimento Educacional (INDE) de uma ONG educacional, dashboard **Power BI** embutido e storytelling completo de insights. [App ao vivo](https://datathonpaappsmagicos-ecmysk7rgax6qsbww3jwmk.streamlit.app/).
 
-### 🛢️ [brent_oil_price](https://github.com/MichaelJourdain93/brent_oil_price)
+### 🛢️ [brent-oil-price-forecasting](https://github.com/MichaelJourdain93/brent-oil-price-forecasting)
 Forecasting do preço do petróleo Brent com **Prophet**, incorporando eventos históricos e geopolíticos (guerras, crises, decisões da OPEP, pandemia) como regressores do modelo. MVP interativo em **Streamlit** + dashboard **Power BI**. [App ao vivo](https://brentoilprice-hs7hlppw4pfznvdxaappeoh.streamlit.app/).
 
-### 🍷 [VINICULA_TECH_CHALLENGE](https://github.com/MichaelJourdain93/VINICULA_TECH_CHALLENGE-)
+### 🍷 [vinicola-export-analytics](https://github.com/MichaelJourdain93/vinicola-export-analytics)
 Análise do desempenho internacional de uma vinícola brasileira exportadora (2007-2022, US$1,9 bi em exportações), com dashboard **Power BI** interativo e relatório completo de insights por produto, país e continente. [Dashboard ao vivo](https://app.powerbi.com/view?r=eyJrIjoiZTdlZjhhZWQtYzY1ZS00NGJiLWI0NjAtMWNiYzI5YWM5MDMyIiwidCI6ImFkYWMzNzYyLWYzMWQtNDliNS1iYWI1LWY3NjcxNzZmZjQyNSJ9).
 
