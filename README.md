@@ -4,7 +4,7 @@
 
 🔗 [Portfólio](https://michael-gbedjinou-portfolio.vercel.app) · 📫 michaeljourdaingbedjinou@gmail.com
 
-## 🛠️ Stack
+## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
@@ -16,7 +16,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
-## 🚀 Projetos em destaque
+##  Projetos em destaque
 
 ### 🦠 [PNAD_COVID_TECH_CHALLENGE](https://github.com/MichaelJourdain93/PNAD_COVID_TECH_CHALLENGE)
 ETL em **PySpark** consolidando 3 meses da PNAD-COVID-19 (IBGE, ~1,15M registros), reduzindo 145+ colunas brutas a 22 variáveis de negócio via UDFs de decodificação semântica. Entrega recomendações acionáveis para preparação hospitalar diante de um novo surto.
