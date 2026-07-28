@@ -1,4 +1,4 @@
-<details open>
+<details open name="lang-toggle">
 <summary><b>🇧🇷 Português</b></summary>
 
 # Olá, eu sou Michael Gbedjinou
@@ -43,7 +43,7 @@ Dashboard de **People Analytics** em **Power BI** para acompanhamento de indicad
 
 ---
 
-<details open>
+<details name="lang-toggle">
 <summary><b>🇺🇸 English</b></summary>
 
 # Hi, I'm Michael Gbedjinou
