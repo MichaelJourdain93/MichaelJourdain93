@@ -1,3 +1,5 @@
+🇧🇷 **Português** · 🇺🇸 [English](README.en.md)
+
 # Olá, eu sou Michael Gbedjinou
 
 **Analytics Engineer / Data Analyst ** graduado em Engenharia e com uma pós-graduação em Data Analytics. Trabalho na ponta a ponta de dados — de pipelines de ingestão e modelagem a dashboards , modelos preditivos e  GenAI aplicada a dados**.
