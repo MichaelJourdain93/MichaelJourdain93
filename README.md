@@ -30,3 +30,9 @@ Forecasting do preço do petróleo Brent com **Prophet**, incorporando eventos h
 ### 🍷 [vinicola-export-analytics](https://github.com/MichaelJourdain93/vinicola-export-analytics)
 Análise do desempenho internacional de uma vinícola brasileira exportadora (2007-2022, US$1,9 bi em exportações), com dashboard **Power BI** interativo e relatório completo de insights por produto, país e continente. [Dashboard ao vivo](https://app.powerbi.com/view?r=eyJrIjoiZTdlZjhhZWQtYzY1ZS00NGJiLWI0NjAtMWNiYzI5YWM5MDMyIiwidCI6ImFkYWMzNzYyLWYzMWQtNDliNS1iYWI1LWY3NjcxNzZmZjQyNSJ9).
 
+### 📈 [ibovespa-time-series-forecast](https://github.com/MichaelJourdain93/ibovespa-time-series-forecast)
+Comparação de modelos de série temporal (**ARIMA**, **LSTM** e **CNN**) para prever o fechamento diário do índice **IBOVESPA** a partir de 5 anos de dados históricos, com teste de estacionariedade (ADF) e análise ACF/PACF. O ARIMA teve o melhor desempenho, superando as redes neurais em todas as métricas de erro.
+
+### 👥 [people-analytics-dashboard](https://github.com/MichaelJourdain93/people-analytics-dashboard)
+Dashboard de **People Analytics** em **Power BI** para acompanhamento de indicadores de RH, estruturado em 3 páginas (visão geral, indicadores de ação e drill-down de detalhe). [Dashboard ao vivo](https://app.powerbi.com/view?r=eyJrIjoiODA2NzJlMGMtMGUzMy00ZWNjLThmZTAtM2Q5MWE3YzQyOTRmIiwidCI6ImFkYWMzNzYyLWYzMWQtNDliNS1iYWI1LWY3NjcxNzZmZjQyNSJ9).
+
