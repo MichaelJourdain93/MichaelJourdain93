@@ -27,5 +27,8 @@ App **Streamlit** multi-página com modelo preditivo (`RandomForestRegressor`) p
 ### 🛢️ [brent_oil_price](https://github.com/MichaelJourdain93/brent_oil_price)
 Forecasting do preço do petróleo Brent com **Prophet**, incorporando eventos históricos e geopolíticos (guerras, crises, decisões da OPEP, pandemia) como regressores do modelo. MVP interativo em **Streamlit** + dashboard **Power BI**. [App ao vivo](https://brentoilprice-hs7hlppw4pfznvdxaappeoh.streamlit.app/).
 
+### 🍷 [VINICULA_TECH_CHALLENGE](https://github.com/MichaelJourdain93/VINICULA_TECH_CHALLENGE-)
+Análise do desempenho internacional de uma vinícola brasileira exportadora (2007-2022, US$1,9 bi em exportações), com dashboard **Power BI** interativo e relatório completo de insights por produto, país e continente. [Dashboard ao vivo](https://app.powerbi.com/view?r=eyJrIjoiZTdlZjhhZWQtYzY1ZS00NGJiLWI0NjAtMWNiYzI5YWM5MDMyIiwidCI6ImFkYWMzNzYyLWYzMWQtNDliNS1iYWI1LWY3NjcxNzZmZjQyNSJ9).
+
 ---
 💡 Repositórios acima refletem trabalho de ponta a ponta — ingestão, transformação, modelagem e visualização — não apenas notebooks de exploração.
