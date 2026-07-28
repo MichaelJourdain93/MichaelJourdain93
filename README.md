@@ -1,0 +1,31 @@
+# Olá, eu sou Michael Jourdain Gbedjinou 👋
+
+**Analytics Engineer** com formação em Engenharia de Recursos Hídricos e pós-graduação em Data Analytics. Trabalho na ponta a ponta de dados — de pipelines de ingestão e modelagem a dashboards e modelos preditivos — e tenho interesse crescente em **GenAI aplicada a dados**.
+
+🔗 [Portfólio](https://portfolio-deploy-ecru-eta.vercel.app) · 📫 michaeljourdaingbedjinou@gmail.com
+
+## 🛠️ Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+
+## 🚀 Projetos em destaque
+
+### 🦠 [PNAD_COVID_TECH_CHALLENGE](https://github.com/MichaelJourdain93/PNAD_COVID_TECH_CHALLENGE)
+ETL em **PySpark** consolidando 3 meses da PNAD-COVID-19 (IBGE, ~1,15M registros), reduzindo 145+ colunas brutas a 22 variáveis de negócio via UDFs de decodificação semântica. Entrega recomendações acionáveis para preparação hospitalar diante de um novo surto.
+
+### 🎓 [Datathon_Passos_Magicos](https://github.com/MichaelJourdain93/Datathon_Passos_Magicos)
+App **Streamlit** multi-página com modelo preditivo (`RandomForestRegressor`) para o Índice de Desenvolvimento Educacional (INDE) de uma ONG educacional, dashboard **Power BI** embutido e storytelling completo de insights. [App ao vivo](https://datathonpaappsmagicos-ecmysk7rgax6qsbww3jwmk.streamlit.app/).
+
+### 🛢️ [brent_oil_price](https://github.com/MichaelJourdain93/brent_oil_price)
+Forecasting do preço do petróleo Brent com **Prophet**, incorporando eventos históricos e geopolíticos (guerras, crises, decisões da OPEP, pandemia) como regressores do modelo. MVP interativo em **Streamlit** + dashboard **Power BI**. [App ao vivo](https://brentoilprice-hs7hlppw4pfznvdxaappeoh.streamlit.app/).
+
+---
+💡 Repositórios acima refletem trabalho de ponta a ponta — ingestão, transformação, modelagem e visualização — não apenas notebooks de exploração.
