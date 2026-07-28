@@ -1,7 +1,3 @@
-<table>
-<tr>
-<td width="50%" valign="top">
-
 <details open name="lang-toggle">
 <summary><b>🇧🇷 Português</b></summary>
 
@@ -45,9 +41,6 @@ Dashboard de **People Analytics** em **Power BI** para acompanhamento de indicad
 
 </details>
 
-</td>
-<td width="50%" valign="top">
-
 <details name="lang-toggle">
 <summary><b>🇺🇸 English</b></summary>
 
@@ -90,7 +83,3 @@ Comparison of time-series models (**ARIMA**, **LSTM**, and **CNN**) to predict t
 **People Analytics** dashboard built in **Power BI** to track HR indicators, structured across 3 pages (overview, action indicators, and detail drill-down). [Live dashboard](https://app.powerbi.com/view?r=eyJrIjoiODA2NzJlMGMtMGUzMy00ZWNjLThmZTAtM2Q5MWE3YzQyOTRmIiwidCI6ImFkYWMzNzYyLWYzMWQtNDliNS1iYWI1LWY3NjcxNzZmZjQyNSJ9).
 
 </details>
-
-</td>
-</tr>
-</table>
