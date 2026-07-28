@@ -2,8 +2,7 @@
 
 **Analytics Engineer / Data Analyst ** graduado em Engenharia e com uma pós-graduação em Data Analytics. Trabalho na ponta a ponta de dados — de pipelines de ingestão e modelagem a dashboards , modelos preditivos e  GenAI aplicada a dados**.
 
-🔗 [Portfólio](https://michael-gbedjinou-portfolio.vercel.app) · <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/8f250daa-5dbf-4314-99eb-da5f0e90dd7c" />
- [WhatsApp](https://api.whatsapp.com/send/?phone=5511912915019&text&type=phone_number&app_absent=0) ·📫 michaeljourdaingbedjinou@gmail.com
+🔗 [Portfólio](https://michael-gbedjinou-portfolio.vercel.app) · 📱[WhatsApp](https://api.whatsapp.com/send/?phone=5511912915019&text&type=phone_number&app_absent=0) ·📫 michaeljourdaingbedjinou@gmail.com
 
 ## Stack
 
