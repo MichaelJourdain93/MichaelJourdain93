@@ -41,7 +41,9 @@ Dashboard de **People Analytics** em **Power BI** para acompanhamento de indicad
 
 </details>
 
-<details>
+---
+
+<details open>
 <summary><b>🇺🇸 English</b></summary>
 
 # Hi, I'm Michael Gbedjinou
