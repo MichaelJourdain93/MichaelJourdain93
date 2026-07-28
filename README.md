@@ -1,8 +1,8 @@
 # Olá, eu sou Michael Jourdain Gbedjinou 👋
 
-**Analytics Engineer** com formação em Engenharia de Recursos Hídricos e pós-graduação em Data Analytics. Trabalho na ponta a ponta de dados — de pipelines de ingestão e modelagem a dashboards e modelos preditivos — e tenho interesse crescente em **GenAI aplicada a dados**.
+**Analytics Engineer / Data Analyst ** graduado em Engenharia e com uma pós-graduação em Data Analytics. Trabalho na ponta a ponta de dados — de pipelines de ingestão e modelagem a dashboards e modelos preditivos — e tenho interesse crescente em **GenAI aplicada a dados**.
 
-🔗 [Portfólio](https://portfolio-deploy-ecru-eta.vercel.app) · 📫 michaeljourdaingbedjinou@gmail.com
+🔗 [Portfólio](https://michael-gbedjinou-portfolio.vercel.app) · 📫 michaeljourdaingbedjinou@gmail.com
 
 ## 🛠️ Stack
 
