@@ -33,9 +33,6 @@ Multi-page **Streamlit** app with a predictive model (`RandomForestRegressor`) f
 ### 🛢️ [brent-oil-price-forecasting](https://github.com/MichaelJourdain93/brent-oil-price-forecasting)
 Brent crude oil price forecasting with **Prophet**, incorporating historical and geopolitical events (wars, crises, OPEC decisions, the pandemic) as model regressors. Interactive MVP in **Streamlit** + **Power BI** dashboard. [Live app](https://brentoilprice-hs7hlppw4pfznvdxaappeoh.streamlit.app/).
 
-### 🍷 [vinicola-export-analytics](https://github.com/MichaelJourdain93/vinicola-export-analytics)
-Analysis of the international performance of a Brazilian wine exporter (2007-2022, US$1.9B in exports), with an interactive **Power BI** dashboard and a full insights report by product, country, and continent. [Live dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTdlZjhhZWQtYzY1ZS00NGJiLWI0NjAtMWNiYzI5YWM5MDMyIiwidCI6ImFkYWMzNzYyLWYzMWQtNDliNS1iYWI1LWY3NjcxNzZmZjQyNSJ9).
-
 ### 📈 [ibovespa-time-series-forecast](https://github.com/MichaelJourdain93/ibovespa-time-series-forecast)
 Comparison of time-series models (**ARIMA**, **LSTM**, and **CNN**) to predict the daily closing price of the **IBOVESPA** index using 5 years of historical data, with stationarity testing (ADF) and ACF/PACF analysis. ARIMA achieved the best performance, outperforming the neural networks on every error metric.
 
@@ -78,9 +75,6 @@ App **Streamlit** multi-página com modelo preditivo (`RandomForestRegressor`) p
 
 ### 🛢️ [brent-oil-price-forecasting](https://github.com/MichaelJourdain93/brent-oil-price-forecasting)
 Forecasting do preço do petróleo Brent com **Prophet**, incorporando eventos históricos e geopolíticos (guerras, crises, decisões da OPEP, pandemia) como regressores do modelo. MVP interativo em **Streamlit** + dashboard **Power BI**. [App ao vivo](https://brentoilprice-hs7hlppw4pfznvdxaappeoh.streamlit.app/).
-
-### 🍷 [vinicola-export-analytics](https://github.com/MichaelJourdain93/vinicola-export-analytics)
-Análise do desempenho internacional de uma vinícola brasileira exportadora (2007-2022, US$1,9 bi em exportações), com dashboard **Power BI** interativo e relatório completo de insights por produto, país e continente. [Dashboard ao vivo](https://app.powerbi.com/view?r=eyJrIjoiZTdlZjhhZWQtYzY1ZS00NGJiLWI0NjAtMWNiYzI5YWM5MDMyIiwidCI6ImFkYWMzNzYyLWYzMWQtNDliNS1iYWI1LWY3NjcxNzZmZjQyNSJ9).
 
 ### 📈 [ibovespa-time-series-forecast](https://github.com/MichaelJourdain93/ibovespa-time-series-forecast)
 Comparação de modelos de série temporal (**ARIMA**, **LSTM** e **CNN**) para prever o fechamento diário do índice **IBOVESPA** a partir de 5 anos de dados históricos, com teste de estacionariedade (ADF) e análise ACF/PACF. O ARIMA teve o melhor desempenho, superando as redes neurais em todas as métricas de erro.
