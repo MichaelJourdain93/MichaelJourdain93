@@ -21,6 +21,9 @@
 
 ## Featured projects
 
+### 🐾 [dashboard-executivo-petshop-center](https://github.com/MichaelJourdain93/dashboard-executivo-petshop-center)
+Executive *one page* in **AWS QuickSight** (S3 → datasets → analyses → dashboard) for a pet retail chain, with an editable target parameter, map-to-table interactivity, and a custom **Highcharts** NPS visual. Recalculating the indicators straight from the CSVs exposed a margin inversion between categories and an aggregation bug in the panel.
+
 ### 🦠 [pnad-covid19-hospital-etl](https://github.com/MichaelJourdain93/pnad-covid19-hospital-etl)
 **PySpark** ETL consolidating 3 months of PNAD-COVID-19 data (IBGE, ~1.15M records), reducing 145+ raw columns to 22 business variables via semantic-decoding UDFs. Delivers actionable recommendations for hospital preparedness ahead of a new outbreak.
 
@@ -63,6 +66,9 @@ Comparison of time-series models (**ARIMA**, **LSTM**, and **CNN**) to predict t
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
 ## Projetos em destaque
+
+### 🐾 [dashboard-executivo-petshop-center](https://github.com/MichaelJourdain93/dashboard-executivo-petshop-center)
+*One page* executivo em **AWS QuickSight** (S3 → datasets → analyses → dashboard) para uma rede de pet shops, com parâmetro de meta editável, interatividade mapa→tabela e visual de NPS customizado em **Highcharts**. O recálculo dos indicadores direto dos CSVs revelou uma inversão de margem entre categorias e um erro de agregação no painel.
 
 ### 🦠 [pnad-covid19-hospital-etl](https://github.com/MichaelJourdain93/pnad-covid19-hospital-etl)
 ETL em **PySpark** consolidando 3 meses da PNAD-COVID-19 (IBGE, ~1,15M registros), reduzindo 145+ colunas brutas a 22 variáveis de negócio via UDFs de decodificação semântica. Entrega recomendações acionáveis para preparação hospitalar diante de um novo surto.
